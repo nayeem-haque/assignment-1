@@ -47,6 +47,7 @@ h1 {
     font-weight: 700;
     text-align: center;
     border-spacing: 20px;
+    border-radius: 5px;
 }
 
 .donate {
